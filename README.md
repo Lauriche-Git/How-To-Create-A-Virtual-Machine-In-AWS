@@ -7,7 +7,7 @@ https://www.loom.com/share/5983db140fd94fcaab1eab27222c7953
 
 ## 🎯 Objective
  The goal of this lab is to deploy a virtual machine in AWS and ensure it is properly configured, accessible, and operational.
-This lab helps build foundationalAWS infrastructure skills commonly used in real-world IT environments.
+This lab helps build foundational AWS infrastructure skills commonly used in real-world IT environments.
 
 ## 🪜 Skills Practiced
  #### AWS Portal navigation
