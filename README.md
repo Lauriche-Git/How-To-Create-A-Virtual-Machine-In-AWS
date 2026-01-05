@@ -20,5 +20,5 @@ This lab helps build foundational AWS infrastructure skills commonly used in rea
  #### Virtual Machine validation and deployment
 
  ## 🪛   Tools & Technologies Used
-*. AWS Portal
-*. Windows Server 2025
+- AWS Portal
+- Windows Server 2025
