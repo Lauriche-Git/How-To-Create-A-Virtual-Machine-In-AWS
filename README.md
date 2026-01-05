@@ -18,4 +18,7 @@ This lab helps build foundational AWS infrastructure skills commonly used in rea
  #### Security group creation for trafic
  ##### Administrator account creation
  #### Virtual Machine validation and deployment
- 
+
+ ## 🪛   Tools & Technologies Used
+. AWS Portal
+. Windows Server 2025
