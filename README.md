@@ -39,7 +39,7 @@ This lab helps build foundational AWS infrastructure skills commonly used in rea
 
 ### 2️⃣ Create the Virtual Machine
 1.  Click on Launch instance
-2.  Porvide a name for yoru Virtual Machine
+2.  Provide a name for yoru Virtual Machine
 3.  Selected wantend Operating system ( we picked windows for this lab )
 <img width="921" height="490" alt="2" src="https://github.com/user-attachments/assets/ec6314f1-a810-4972-b64c-53445e60aef4" />
 
@@ -52,3 +52,20 @@ Configured the following VM settings:
 3.  create a key pair
 <img width="921" height="506" alt="3" src="https://github.com/user-attachments/assets/ef31c787-19dc-4f37-9d6b-912f1d9de776" />
 
+##
+
+### 5️⃣ Validation & Deployment  
+1. Reviewed all configurations
+2. Click launch instances
+3. Successfully deployed the virtual machine
+<img width="941" height="350" alt="4" src="https://github.com/user-attachments/assets/caf638f8-6500-42fb-9627-7e667aee87e8" />
+
+
+
+##
+
+## 🍃  Outcome
+- Successfully deployed a Windows Server AWS Virtual Machine
+- Verified the VM status as running
+- Confirmed remote access via RDP
+- Gained hands-on experience with AWS VM provisioning
