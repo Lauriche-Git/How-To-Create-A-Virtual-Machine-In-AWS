@@ -22,3 +22,18 @@ This lab helps build foundational AWS infrastructure skills commonly used in rea
  ## 🪛   Tools & Technologies Used
 - AWS Portal
 - Windows Server 2025
+
+## 🤔 Prerequisites
+- An active AWS  account
+- Basic understanding of virtual machines
+- Internet connection and modern web browser
+
+## 🚶‍♂️‍➡️  Steps Performed
+### 1️⃣ Log in to AWS Portal
+1. Sign in to the AWS Portal
+2. Click Create a resource
+3. search and click on EC2 Azure Virtual Machine
+<img width="941" height="523" alt="1" src="https://github.com/user-attachments/assets/cba4624e-bfc0-49a9-9b72-95371205e3d0" />
+
+
+##
