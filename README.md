@@ -28,12 +28,27 @@ This lab helps build foundational AWS infrastructure skills commonly used in rea
 - Basic understanding of virtual machines
 - Internet connection and modern web browser
 
-## 🚶‍♂️‍➡️  Steps Performed
+## 🧗  Steps Performed
 ### 1️⃣ Log in to AWS Portal
 1. Sign in to the AWS Portal
 2. Click Create a resource
 3. search and click on EC2 Azure Virtual Machine
 <img width="941" height="523" alt="1" src="https://github.com/user-attachments/assets/cba4624e-bfc0-49a9-9b72-95371205e3d0" />
 
+##
+
+### 2️⃣ Create the Virtual Machine
+1.  Click on Launch instance
+2.  Porvide a name for yoru Virtual Machine
+3.  Selected wantend Operating system ( we picked windows for this lab )
+<img width="921" height="490" alt="2" src="https://github.com/user-attachments/assets/ec6314f1-a810-4972-b64c-53445e60aef4" />
 
 ##
+
+### 4️⃣ Configure Basic Settings
+Configured the following VM settings:
+1.  Select AIM ( Amazon Machine image ) 
+2.  Select machine instance type 
+3.  create a key pair
+<img width="921" height="506" alt="3" src="https://github.com/user-attachments/assets/ef31c787-19dc-4f37-9d6b-912f1d9de776" />
+
